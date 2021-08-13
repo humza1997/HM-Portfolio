@@ -7,7 +7,8 @@ img {
   transform: translate(-50%, 200vh);
 }
 #shapes1 {
-  transform: translate(5%, 0);
+  /* transform: ; */
+  left: 10vw;
 }
 * {
   overflow-x: hidden;
