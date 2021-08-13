@@ -7,7 +7,7 @@ img {
   transform: translate(-50%, 200vh);
 }
 #shapes1 {
-  /* transform: ; */
+  transform: translate(0, -60vh);
   left: 10vw;
 }
 * {
