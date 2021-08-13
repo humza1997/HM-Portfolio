@@ -1,0 +1,13 @@
+ul li {
+  text-align: end;
+  display: inline;
+  margin: auto 15px;
+  font-size: x-large;
+}
+
+ul {
+  padding: 0;
+  text-align: left;
+  position: absolute;
+  right: 0px;
+}

@@ -1,0 +1,14 @@
+img {
+  position: absolute;
+  z-index: -1;
+}
+
+#shapes2 {
+  transform: translate(-50%, 200vh);
+}
+#shapes1 {
+  transform: translate(5%, 0);
+}
+* {
+  overflow-x: hidden;
+}

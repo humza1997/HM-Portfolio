@@ -1,0 +1,11 @@
+* {
+  overflow-x: hidden;
+}
+
+#home {
+  min-height: 100vh;
+}
+#home h1 {
+  margin: 200px 0px 0 50px;
+  font-size: 130px;
+}

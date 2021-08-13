@@ -1,0 +1,12 @@
+* {
+  overflow-x: hidden;
+}
+#aboutme {
+  min-height: 100vh;
+  text-align: center;
+}
+
+#aboutme h1 {
+  font-size: 100px;
+  margin-top: 30px;
+}
